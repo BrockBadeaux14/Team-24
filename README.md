@@ -1,8 +1,8 @@
-# [Name of the Project] : [Team Number]
+# Fishery : 24
 # Members
 Project Manager: [Name] ([GitHub Name])\
 Communications Lead: [Name] ([GitHub Name])\
-Git Master: [Name] ([GitHub Name])\
+Git Master: Brock (BrockBadeaux14)\
 Design Lead: [Name] ([GitHub Name])\
 Quality Assurance Tester: [Name] ([GitHub Name])
 
